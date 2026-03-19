@@ -7,7 +7,7 @@ Este documento establece las reglas de convivencia, comunicación y estándares 
 | :--- | :--- | :--- |
 | [Adriana Lucia Lizcano Almeida] | Líder (Arquitecto) | `Lucia-1234` |
 | [Dylan Santiago Vesga Cañas] | Desarrollador | `sfbtm` |
-| [Nombre del Aprendiz 3] | Desarrollador | `@usuario3` |
+| [Sol Aangy Valentina Serrano Quintero] | Desarrollador | `@valentinaserrano20` |
 
 ## 2. Canales de Comunicación
 Para mantener el orden y separar lo profesional de lo personal, usaremos los siguientes canales:
