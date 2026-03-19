@@ -6,7 +6,7 @@ Este documento establece las reglas de convivencia, comunicación y estándares 
 | Nombre | Rol | Usuario de GitHub |
 | :--- | :--- | :--- |
 | [Adriana Lucia Lizcano Almeida] | Líder (Arquitecto) | `Lucia-1234` |
-| [Nombre del Aprendiz 2] | Desarrollador | `@usuario2` |
+| [Dylan Santiago Vesga Cañas] | Desarrollador | `sfbtm` |
 | [Nombre del Aprendiz 3] | Desarrollador | `@usuario3` |
 
 ## 2. Canales de Comunicación
