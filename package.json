@@ -1,0 +1,25 @@
+{
+  "name": "asincronia",
+  "version": "1.0.0",
+  "description": "**Metodología:** *\"Del Requerimiento al Producto\"*",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucia-1234/Asincronia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Lucia-1234/Asincronia/issues"
+  },
+  "homepage": "https://github.com/Lucia-1234/Asincronia#readme"
+}
