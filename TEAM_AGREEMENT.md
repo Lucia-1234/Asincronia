@@ -5,9 +5,11 @@ Este documento establece las reglas de convivencia, comunicación y estándares 
 ## 1. Miembros del Equipo y Roles
 | Nombre | Rol | Usuario de GitHub |
 | :--- | :--- | :--- |
-| [Adriana Lucia Lizcano Almeida] | Líder (Arquitecto) | `@Lucia-1234` |
-| [Dylan Santiago Vesga Cañas] | Desarrollador | `@sfbtm` |
-| [Sol Aangy Valentina Serrano Quintero] | Desarrollador | `@valentinaserrano20` |
+
+| [Adriana Lucia Lizcano Almeida] | Líder (Arquitecto) | `Lucia-1234` |
+| [Nombre del Aprendiz 2] | Desarrollador | `@6fbtm` |
+| [Sol Angy Valentina Serrano Quintero] | Desarrollador | `@valentinaserrano20` |
+
 
 ## 2. Canales de Comunicación
 Para mantener el orden y separar lo profesional de lo personal, usaremos los siguientes canales:
@@ -26,7 +28,7 @@ Para mantener el orden y separar lo profesional de lo personal, usaremos los sig
 
 ## 5. Resolución de Conflictos y Ausencias
 Somos profesionales en formación. Si surgen problemas, actuaremos así:
-1. **Ausencias:** Si alguien no puede trabajar por fuerza mayor, debe avisar por el canal oficial con al menos [Ej: 12 horas] de anticipación para reasignar sus tareas.
+1. **Ausencias:** Si alguien no puede trabajar por fuerza mayor, debe avisar por el canal oficial con al menos [12 horas] de anticipación para reasignar sus tareas.
 2. **Incumplimiento:** Si un miembro del equipo no entrega sus tareas en la fecha del *Milestone* sin justificación, el Líder reportará la situación formalmente.
 3. **Decisiones Técnicas:** En caso de desacuerdo sobre cómo programar algo, se debatirá con argumentos técnicos y la decisión final será tomada por el **Líder (Arquitecto)**.
 
